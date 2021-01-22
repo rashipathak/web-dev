@@ -1,0 +1,31 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px 120px;
+    margin: 5px 20px;
+    text-align: center;
+}
+.horizontal{
+    display: inline;
+    padding: 10px 5px;
+    text-align: center;
+    }
+a{
+    text-decoration: none;
+    color: rgb(77, 2, 2);
+    
+}
+div{
+    padding: 150px 100px;
+}
+h1 h2 h3{
+    font-weight: 800;
+    color: rgb(77, 2, 2);
+}
+table{
+    display: inline-block;
+    text-align: center;
+}
+h1 h2{
+    padding: 50px 20px;
+    margin: 25px 10px;
+}
