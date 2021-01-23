@@ -2,8 +2,18 @@
 body {
     background: #fff;
     color: #333;
-    font-family: Lato, sans-serif;
-  }
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.heading{
+    display: inline-block;
+    font-weight: 800;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 10px 20px;
+    margin: 5px 10px;
+}
   .container {
     display: block;
     width: 400px;
