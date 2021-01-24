@@ -1,19 +1,18 @@
 /* Basic Style */
 body {
-    background: #fff;
-    color: #333;
+    background: rgb(213, 245, 245);
+    color: rgb(27, 18, 18);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 }
-
-.heading{
+  .heading h1{
     display: inline-block;
     font-weight: 800;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     padding: 10px 20px;
     margin: 5px 10px;
-}
+  }
   .container {
     display: block;
     width: 400px;
@@ -59,9 +58,9 @@ body {
   }
   input[type="text"] {
     margin: 0;
-    font-size: 18px;
-    line-height: 18px;
-    height: 18px;
+    font-size: 20px;
+    line-height: 20px;
+    height: 20px;
     padding: 10px;
     border: 1px solid #ddd;
     background: #fff;
@@ -107,13 +106,13 @@ body {
     width: 226px;
   }
   li > .delete:hover {
-    color: #CF2323;
+    color: #df2727;
   }
   
   /* Completed */
   #completed-tasks label {
     text-decoration: line-through;
-    color: #888;
+    color: rgb(177, 172, 172);
   }
   
   /* Edit Task */
